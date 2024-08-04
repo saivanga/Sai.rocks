@@ -1,24 +1,19 @@
 ---
 layout: post.njk
 title: Dead Cells
-tags: ['Lorem', 'Egestas']
+tags: ["Metroidvania", "Rougelike"]
 featuredImage: /_images/02.jpg
 date: 2021-09-17
-description: Vivamus vel tempus urna. Sed imperdiet diam in velit commodo placerat. Phasellus lacinia vitae mi a efficitur. Etiam in tincidunt dui.
+description: Die, learn, repeat. Explore a deadly island in Dead Cells, a challenging roguelike with fast-paced combat.
 permalink: /dead-cells/
 ---
 
-**Lorem ipsum dolor** sit amet, consectetur adipiscing elit. Sed nulla risus, efficitur ullamcorper molestie feugiat, congue ac ligula. Donec sit amet pharetra elit. Maecenas cursus et ligula ac volutpat. Fusce pharetra convallis sagittis. Donec ipsum augue, sagittis sed tortor non, rhoncus semper erat. Aliquam placerat convallis risus quis porttitor. Etiam interdum bibendum fringilla. Proin sed metus ut tellus feugiat fringilla. Donec nec ligula id quam lacinia pretium. *Pellentesque quis justo ultrices*, tincidunt dui eu, tempor nulla.
+Dead Cells, a roguelike metroidvania, is a testament to the potential of procedural generation in gaming. By seamlessly blending the thrill of exploration with the challenge of permadeath, it crafts a unique and endlessly replayable experience.
 
-## Donec sit amet pharetra elit
+At its core, Dead Cells is a masterclass in level design. Each playthrough presents a fresh, hand-crafted challenge, yet the underlying structure remains consistent. This balance between familiarity and novelty is crucial to the game’s appeal. Players are constantly confronted with new enemy combinations, item synergies, and environmental hazards, keeping them engaged and on their toes. The metroidvania elements further enrich the experience, allowing players to gradually unlock new abilities and shortcuts, encouraging exploration and experimentation.
 
-Mauris non purus fermentum lectus facilisis egestas in sit amet risus. Maecenas sit amet accumsan odio, vitae euismod ipsum. Donec congue ligula ac erat auctor tristique. Sed ac ligula congue, congue sapien vel, varius nisi. Duis blandit eu orci a dictum. Morbi varius ipsum ut nunc tincidunt fermentum. Morbi orci sapien, aliquet sed scelerisque sed, molestie at lectus. Nulla consequat tellus ac cursus ultricies. Suspendisse eu vehicula purus. [Sed non mollis dolor](https://wikipedia.org), et iaculis velit. Fusce commodo luctus nisi a venenatis. Curabitur ut pulvinar magna, vitae ullamcorper risus. Duis at metus non velit viverra luctus ac et nunc. Nulla elit felis, volutpat cursus metus ut, porttitor commodo enim. Aenean nibh odio, lacinia dignissim nunc quis, pretium pellentesque ligula.
+The game’s combat system is equally impressive. It’s fluid, responsive, and offers a deep well of tactical possibilities. With a vast array of weapons, each with its own unique playstyle, players are encouraged to adapt their strategies to suit the situation. The addition of mutations, which provide random, often game-changing abilities, adds another layer of complexity and unpredictability.
 
-## Sed imperdiet diam in velit
+However, Dead Cells is not without its challenges. The game can be unforgiving, with death often coming swiftly and unexpectedly. This can be frustrating for some players, but it also contributes to the game’s sense of tension and reward. The satisfaction of overcoming a particularly difficult challenge is immense, and the knowledge gained from each failed attempt is invaluable.
 
-Vivamus vel tempus urna. Sed imperdiet diam in velit commodo placerat. Phasellus lacinia vitae mi a efficitur. Etiam in tincidunt dui. Fusce eget est consequat, malesuada mauris at, finibus risus. Nunc ornare pharetra lacinia. Maecenas ipsum nisl, tempor eget facilisis ut, aliquet at urna. Donec a feugiat elit. Duis pellentesque porttitor pellentesque. Cras et sapien eget purus elementum malesuada.
-
-### Suspendisse eu vehicula purus. Sed non mollis dolor, et iaculis velit
-
-Donec congue ligula ac erat auctor tristique. Sed ac ligula congue, congue sapien vel, varius nisi. Duis blandit eu orci a dictum. Morbi varius ipsum ut nunc tincidunt fermentum. Morbi orci sapien, aliquet sed scelerisque sed, molestie at lectus. Nulla consequat tellus ac cursus ultricies. Suspendisse eu vehicula purus. Sed non mollis dolor, et iaculis velit. Fusce commodo luctus nisi a venenatis. Curabitur ut pulvinar magna, vitae ullamcorper risus.
-
+In conclusion, Dead Cells is a remarkable achievement in game design. It expertly combines the best aspects of roguelikes and metroidvanias to create a truly addictive experience. While it may not be for everyone due to its difficulty, for those who appreciate a challenge, Dead Cells offers endless hours of entertainment and replayability. It is a game that demands mastery, but rewards it generously.
