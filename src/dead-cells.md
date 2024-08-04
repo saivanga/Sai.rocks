@@ -1,11 +1,11 @@
 ---
 layout: post.njk
-title: Maecenas sit amet accumsan odio, vitae euismod ipsum
+title: Dead Cells
 tags: ['Lorem', 'Egestas']
 featuredImage: /_images/02.jpg
 date: 2021-09-17
 description: Vivamus vel tempus urna. Sed imperdiet diam in velit commodo placerat. Phasellus lacinia vitae mi a efficitur. Etiam in tincidunt dui.
-permalink: /maecenas-sit/
+permalink: /dead-cells/
 ---
 
 **Lorem ipsum dolor** sit amet, consectetur adipiscing elit. Sed nulla risus, efficitur ullamcorper molestie feugiat, congue ac ligula. Donec sit amet pharetra elit. Maecenas cursus et ligula ac volutpat. Fusce pharetra convallis sagittis. Donec ipsum augue, sagittis sed tortor non, rhoncus semper erat. Aliquam placerat convallis risus quis porttitor. Etiam interdum bibendum fringilla. Proin sed metus ut tellus feugiat fringilla. Donec nec ligula id quam lacinia pretium. *Pellentesque quis justo ultrices*, tincidunt dui eu, tempor nulla.

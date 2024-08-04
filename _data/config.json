@@ -30,8 +30,12 @@
       "url": "/audio/"
     },
     {
+      "anchor": "Video",
+      "url": "/video/"
+    },
+    {
       "anchor": "Contact",
-      "url": "#"
+      "url": "/contact/"
     }
   ],
   "navbarButtons": [
