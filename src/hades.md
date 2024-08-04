@@ -10,6 +10,10 @@ description: Escape the Underworld as Zagreus in Hades, a thrilling roguelike wi
 
 Hades, Supergiant Games' acclaimed roguelike, masterfully weaves together compelling narrative, addictive gameplay, and rich character development into a tapestry of mythological wonder. As Zagreus, the defiant son of Hades, players embark on a perilous journey to escape the Underworld and ascend to Mount Olympus.
 
+### Full Gameplay
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPmMCzvLs9E?si=CXMmwZ5OO1-mPvN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Central to Hades' appeal is its innovative approach to the roguelike genre. While maintaining the core elements of permadeath and procedural generation, the game introduces a robust narrative and character progression system that fosters a deep emotional connection with its world. Each failed attempt to escape not only presents a fresh challenge but also advances the overarching story, deepening relationships with the colorful cast of Olympian gods and Underworld denizens.
 
 The game's combat is equally impressive, offering a fluid and satisfying experience. A vast array of weapons and abilities, combined with the dynamic boon system granted by the Olympian gods, ensures that every playthrough feels fresh and exciting. The pacing is expertly calibrated, striking a balance between intense action and strategic decision-making.

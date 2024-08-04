@@ -1,7 +1,7 @@
 {
   "title": "Once",
   "url": "/",
-  "domain": "https://once-eleventy.netlify.app",
+  "domain": "https://sai.rocks/testing-web-designs",
   "language": "es",
   "logoUrl": "/_images/once.png",
   "search": true,
@@ -29,30 +29,17 @@
       "anchor": "Audio",
       "url": "/audio/"
     },
-    {
-      "anchor": "Video",
-      "url": "/video/"
-    },
+
     {
       "anchor": "Contact",
       "url": "/contact/"
     }
   ],
-  "navbarButtons": [
-    {
-      "anchor": "Suscribe",
-      "class": "is-small is-danger",
-      "url": "about"
-    }
-  ],
+  "navbarButtons": [],
   "social": {
-    "facebook": "https://facebook.com",
-    "twitter": "https://twitter.com",
-    "pinterest": "https://pinterest.com",
-    "instagram": "https://instagram.com",
-    "github": "https://github.com"
+    "github": "https://github.com/saivanga"
   },
-  "showShareButtons": true,
+  "showShareButtons": false,
   "showDate": true,
   "showRelatedPosts": true,
   "relatedPostsTitle": "Related Posts"
