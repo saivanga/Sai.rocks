@@ -6,6 +6,11 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
+<audio controls>
+  <source src="/_images/audio.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper massa cursus, auctor quam ac, vestibulum ipsum. Integer tempor dolor at erat ultricies sollicitudin. Etiam auctor, orci at scelerisque condimentum, massa lacus vehicula enim, eu semper eros velit quis neque. In sit amet accumsan tellus. Mauris eu est turpis. Nam eu elementum quam. Nulla accumsan tellus mi, sit amet porta nulla pharetra quis. Cras a lorem quis risus elementum malesuada. Vivamus eu nisl vel quam commodo euismod vel at tellus. Donec non lobortis lacus. Proin imperdiet, tellus vel ullamcorper cursus, nulla tellus sollicitudin velit, eu ornare urna eros non sapien.
 
 Phasellus quis velit at arcu hendrerit sodales ac non mi. Pellentesque libero ligula, vehicula eget venenatis sed, facilisis at magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus venenatis, sem quis hendrerit rutrum, enim ante efficitur arcu, congue ornare velit dolor commodo leo. Pellentesque sit amet urna velit. Curabitur a dictum purus. Duis ut libero fringilla, scelerisque massa in, porta enim.
