@@ -1,0 +1,3 @@
+
+User-agent: *
+sitemap: https://https://sai.rocks/testing-web-designs/sitemap.xml
