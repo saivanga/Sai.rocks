@@ -10,6 +10,10 @@ date: 2024-05-08
 
 Ori and the Blind Forest is a magical adventure where a tiny spirit named Ori embarks on a quest to save a dying forest. With stunning visuals, a beautiful story about hope and courage, and challenging yet rewarding gameplay, this game is a heartwarming experience for players of all ages. You'll explore a dark and mysterious world, solve puzzles, and make new friends as you help Ori restore the forest to its former glory.
 
-### Full Gameplay by [Gamer's Little Playground](https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q)
+### Full Gameplay
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ey4Dk0dZD0o?si=rIckVula7s4-PQm3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Credits Gamer's Little Playground
+
+- YouTube Channel: [https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q](https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q)
