@@ -4,7 +4,7 @@ title: Hades
 tags: ["RPG", "Rougelike"]
 featuredImage: /_images/05.jpg
 permalink: /hades/
-date: 2021-12-10
+date: 2024-05-09
 description: Escape the Underworld as Zagreus in Hades, a thrilling roguelike with god-like powers.
 ---
 
