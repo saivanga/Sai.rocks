@@ -6,5 +6,5 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
-- Phone: +1 (234) 567 - 8910
+- Website: test.sai.rocks
 - email: sai@sai.rocks

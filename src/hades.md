@@ -14,8 +14,7 @@ The best part is that every time you try to escape, it's different! You get new 
 
 ### Full Gameplay
 
+- Credits: Gamer's Little Playground
+
+- Author's YouTube Channel: [https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q](https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPmMCzvLs9E?si=CXMmwZ5OO1-mPvN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Credits Gamer's Little Playground
-
-- YouTube Channel: [https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q](https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q)

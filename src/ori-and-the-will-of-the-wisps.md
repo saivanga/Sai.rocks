@@ -12,8 +12,7 @@ Ori and the Will of the Wisps is a stunning platformer that surpasses its predec
 
 ### Full Gameplay
 
+- Credits: MKIceAndFire
+
+- Author's YouTube Channel [https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag](https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXUrR6EiEcY?si=i4GDB0dzr94JC8Dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Credits MKIceAndFire
-
-- Youtube Channel [https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag](https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag)

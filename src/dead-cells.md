@@ -14,8 +14,7 @@ You get stronger as you play, finding powerful weapons and magic abilities to he
 
 ### Full Gameplay
 
+- Credits: Vord(https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw)
+
+- Author's YouTube Channel[https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw](https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Myhw-BNDZw?si=gf6Vxh2aP0yt6o7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Credits Vord(https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw)
-
-- YouTube Channel[https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw](https://www.youtube.com/channel/UC9nuBGdTPaNsVq20vVqynXw)
