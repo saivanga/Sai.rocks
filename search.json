@@ -2,18 +2,18 @@
     "url" : "/dead-cells/",
     "title" : "Dead Cells"
   },{
-    "url" : "/hollow-knight/",
-    "title" : "Hollow Knight"
-  },{
     "url" : "/hades/",
     "title" : "Hades"
   },{
-    "url" : "/prince-of-persia-the-lost-crown/",
-    "title" : "Prince of Persia The Lost Crown"
+    "url" : "/hollow-knight/",
+    "title" : "Hollow Knight"
+  },{
+    "url" : "/ori-and-the-blind-forest/",
+    "title" : "Ori and The Blind Forest"
   },{
     "url" : "/ori-and-the-will-of-the-wisps/",
     "title" : "Ori and The Will of The Wisps"
   },{
-    "url" : "/ori-and-the-blind-forest/",
-    "title" : "Ori and The Blind Forest"
+    "url" : "/prince-of-persia-the-lost-crown/",
+    "title" : "Prince of Persia The Lost Crown"
   }]}
