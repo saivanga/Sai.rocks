@@ -10,6 +10,14 @@ date: 2024-05-08
 
 Ori and the Will of the Wisps is a stunning platformer that surpasses its predecessor. Its vibrant visuals, enchanting soundtrack, and precise controls create an immersive world to explore. Beyond gameplay, the game's emotional depth through its characters and story is truly remarkable. A masterpiece that lingers in memory.
 
+### My Gameplay
+
+- Credits: Sai Vanga
+
+- Author's YouTube Channel [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_m2wphYyjUY?si=qUAFjL0NbBKt-UM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Full Gameplay
 
 - Credits: MKIceAndFire
