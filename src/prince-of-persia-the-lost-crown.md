@@ -12,7 +12,7 @@ Prince of Persia: The Lost Crown is a new kind of Prince of Persia game. Instead
 
 ### Me Playing Prince Of Persia The Lost Crown
 
-- Author's YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
+- My YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwT-nshcQqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Full Gameplay

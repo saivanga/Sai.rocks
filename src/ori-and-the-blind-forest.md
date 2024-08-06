@@ -12,7 +12,7 @@ Ori and the Blind Forest is a magical adventure where a tiny spirit named Ori em
 
 ### Me Playing Ori and the Blind Forest
 
-- Author's YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
+- My YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZiIyZ-fTOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Full Gameplay
