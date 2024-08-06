@@ -10,6 +10,11 @@ description: Bend time to fight and explore in Prince of Persia The Lost Crown. 
 
 Prince of Persia: The Lost Crown is a new kind of Prince of Persia game. Instead of running and jumping like in the old ones, this one is more like a puzzle game with fighting. You play as a super strong guy who can slow down time to solve tricky puzzles and beat bad guys. It's like a mix of old school Prince of Persia and a thinking game.
 
+### Me Playing Prince Of Persia The Lost Crown
+
+- Author's YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MwT-nshcQqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Full Gameplay
 
 - Credits: Shirrako
