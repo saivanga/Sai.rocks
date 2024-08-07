@@ -29,7 +29,22 @@
       "anchor": "Audio",
       "url": "/audio/"
     },
-
+    {
+      "anchor": "Education",
+      "url": "/education/"
+    },
+    {
+      "anchor": "Places Visited",
+      "url": "/places-visited/"
+    },
+    {
+      "anchor": "Projects",
+      "url": "/projects/"
+    },
+    {
+      "anchor": "Tips And Tricks",
+      "url": "/tips-and-tricks/"
+    },
     {
       "anchor": "Contact",
       "url": "/contact/"
