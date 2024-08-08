@@ -8,15 +8,15 @@ eleventyExcludeFromCollections: true
 
 <p></p>
 
-##### {{project.date}}
-
 ### {{project.title}}
 
-<p>{{project.description}}</p>
-{% endfor %}
+##### {{project.date}}
 
 {% for link in project.links %}
 
-[{{ project.link.name }}]({{ project.link.link }})
+- [{{ link.name }}]({{ link.link }})
 
+{% endfor %}
+
+<p>{{project.description}}</p>
 {% endfor %}
