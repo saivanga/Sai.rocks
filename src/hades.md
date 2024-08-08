@@ -8,10 +8,11 @@ date: 2024-05-08
 description: Escape the Underworld as Zagreus in Hades, a thrilling roguelike with god-like powers.
 ---
 
-You play as Zagreus, a kid trying to escape the Underworld where his dad, Hades, lives. It's like a really cool adventure with lots of fighting and magic. You get to meet awesome gods like Zeus and Athena who help you on your journey.
+You play as Zagreus, a god trying to escape the Underworld where his dad, Hades, lives. It's like a really cool adventure with lots of fighting and magic. You get to meet cool gods like Zeus and Athena who help you on your journey.
 
-The best part is that every time you try to escape, it's different! You get new powers and meet new friends.
-FVIzkq8bJNM
+Everytime you start a new run the world is different from before, maybe more loot, money, or mini bosses. and each time you are not to get the god you want everytime so I think that it makes it just that much more replayable.
+
+
 
 ### My Gameplay
 
