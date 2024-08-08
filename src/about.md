@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
-Hi! My name is Sai and I made this website.
+Hi! I am Sai Vanga and I made this website.
 Some of my favorite things are:
 
 - Food:
