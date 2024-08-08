@@ -6,6 +6,15 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
-GameArena is **The** Website for Gamers.
+Hi! My name is Sai and I made this website.
+Some of my favorite things are:
 
-It's a place where people who love video games can share their cool clips, learn new tricks, and make friends with other gamers. You can watch other people play games, share your own gameplay, and even compete against others. The website wants to be a fun place for everyone who loves video games.
+- Food:
+
+  - Paneer
+  - Mostly any Indian food
+  - Chocolate
+
+- Hobbies
+  - Code
+  - Play games

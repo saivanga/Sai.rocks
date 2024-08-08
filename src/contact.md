@@ -6,5 +6,5 @@ eleventyExcludeFromCollections: true
 
 # {{ title }}
 
-- Website: [test.sai.rocks](https://test.sai.rocks)
+- Website: [sai.rocks](https://sai.rocks)
 - email: sai@sai.rocks

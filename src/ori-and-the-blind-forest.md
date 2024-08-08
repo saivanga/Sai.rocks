@@ -10,6 +10,8 @@ date: 2024-05-08
 
 Ori and the Blind Forest is a magical adventure where a tiny spirit named Ori embarks on a quest to save a dying forest. With stunning visuals, a beautiful story about hope and courage, and challenging yet rewarding gameplay, this game is a heartwarming experience for players of all ages. You'll explore a dark and mysterious world, solve puzzles, and make new friends as you help Ori restore the forest to its former glory.
 
+The only thing is that you just spam the x button to attack so after playing a while you finger might hurt and the combat is not engaging.
+
 ### Me Playing Ori and the Blind Forest
 
 - My YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)

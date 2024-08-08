@@ -1,3 +1,4 @@
 - Add rating for the games and my opinion
-- Remove CNAME from existing sai.rocks
-- Update CNAME in current repo from test.sai.rocks to sai.rocks
+
+Add photos
+change sai.rocks a game reviews website to say the title of the page and move "a game reviews website" to a page called game reviews
