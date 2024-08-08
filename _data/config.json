@@ -1,7 +1,7 @@
 {
-  "title": "GameArena",
+  "title": "sai.rocks",
   "url": "/",
-  "domain": "https://sai.rocks/testing-web-designs",
+  "domain": "https://sai.rocks/",
   "language": "es",
   "logoUrl": "/_images/once.png",
   "search": true,
@@ -10,16 +10,6 @@
   "cookiesAdviceMoreInfoAnchor": "More Info",
   "cookiesAdviceMoreInfoUrl": "/cookies/",
   "googleAnalyticsID": "",
-  "footerLinks": [
-    {
-      "anchor": "Legal Advice",
-      "url": "#"
-    },
-    {
-      "anchor": "Cookies Advice",
-      "url": "#"
-    }
-  ],
   "navbarMenu": [
     {
       "anchor": "About",
