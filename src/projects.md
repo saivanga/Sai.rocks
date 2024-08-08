@@ -17,7 +17,7 @@ eleventyExcludeFromCollections: true
 
 {% for link in project.links %}
 
-- {{% link.link %}}
+- {{ link.link }}
 
   {% endfor %}
 
