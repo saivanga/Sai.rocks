@@ -13,6 +13,7 @@ eleventyExcludeFromCollections: true
 ### {{project.title}}
 
 <p>{{project.description}}</p>
+{% endfor %}
 
 {% for link in project.links %}
 
