@@ -6,8 +6,8 @@ eleventyExcludeFromCollections: true
 
 These are the places I visited:
 
-- Skyline Loop (2024-08-03)
-- Chirico Trail (2024-07-27)
+- [Skyline Loop](https://www.alltrails.com/ar/trail/us/washington/skyline-trail) (2024-08-03)
+- [Chirico Trail](https://www.alltrails.com/ar/trail/us/washington/poo-poo-point-trail) (2024-07-27)
 - Snoqualmie Falls (2022-02-13)
 - Creekside Park, Pleasanton (2019-12-29)
 - Aquariam of the Bay, San Francisco (2019-12-28)
