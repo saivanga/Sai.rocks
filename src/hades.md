@@ -12,7 +12,8 @@ You play as Zagreus, a god trying to escape the Underworld where his dad, Hades,
 
 Everytime you start a new run the world is different from before, maybe more loot, money, or mini bosses. and each time you are not to get the god you want everytime so I think that it makes it just that much more replayable.
 
-
+## ★★★★★
+Good game and story.
 
 ### My Gameplay
 

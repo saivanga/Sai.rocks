@@ -10,6 +10,9 @@ description: Explore a haunting underground world in Hollow Knight. Battle deadl
 
 Hollow Knight is a challenging Metroidvania game set in a rotting insect kingdom. Players explore a vast, interconnected world, battling formidable enemies and solving hard puzzles. With a creepy atmosphere and rewarding gameplay, Hollow Knight is a critically acclaimed indie title that offers a deep and immersive experience.
 
+## ★★★★☆
+You might feel lost sometimes but good atmosphere, story, and combat.
+
 ### Me Playing Hollow Knight
 
 - My YouTube Channel: [https://youtube.com/@Sai-Vanga](https://youtube.com/@Sai-Vanga)

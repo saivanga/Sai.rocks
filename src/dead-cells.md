@@ -12,6 +12,9 @@ Dead Cells is a super exciting game where you play as a mysterious character fig
 
 You get stronger as you play, finding powerful weapons and magic abilities to help you defeat the creepy creatures guarding the castle. It's tough, but it's incredibly satisfying when you finally beat a really tough monster or unlock a new area. It's like a puzzle you need to solve, but with swords and magic instead of pieces!
 
+## ★★★★★
+Great Game and good replayability value.
+
 ### My Gameplay
 
 - Credits: Sai Vanga

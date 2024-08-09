@@ -12,6 +12,9 @@ Ori and the Blind Forest is a magical adventure where a tiny spirit named Ori em
 
 The only thing is that you just spam the x button to attack so after playing a while you finger might hurt and the combat is not engaging.
 
+## ★★★★☆
+The combat is not fun but the graphics are great!
+
 ### Me Playing Ori and the Blind Forest
 
 - My YouTube Channel: [https://www.youtube.com/@Sai-Vanga](https://www.youtube.com/@Sai-Vanga)
